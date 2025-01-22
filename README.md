@@ -1,3 +1,3 @@
 # cube2D
 
-![Image](https://github.com/user-attachments/assets/ccfd2d03-05a0-4c5d-b49b-589dd4fce1c5)
+![Image](https://github.com/user-attachments/assets/ce389f95-10c5-468a-b1f8-ea120312880e)
